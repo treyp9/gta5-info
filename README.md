@@ -1,4 +1,4 @@
 # gta5-info
-#everything you need to know about GTA5
-#make sure to try the gta5.bash
+# everything you need to know about GTA5
+# make sure to try the gta5.bash
 install figlet, boxes and lolcat for it to work
