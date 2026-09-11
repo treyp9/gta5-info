@@ -24,3 +24,8 @@ sleep 2
 boxes gta-missions | lolcat
 sleep 15
 clear
+figlet "controls" | lolcat
+sleep 2
+boxes gta-controls | lolcat
+sleep 15 
+clear
