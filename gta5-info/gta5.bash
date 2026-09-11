@@ -1,4 +1,5 @@
 #!/bin/bash
+clear
 figlet "Description" | lolcat
 sleep 2
 boxes gta-description | lolcat
